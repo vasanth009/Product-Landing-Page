@@ -1,0 +1,21 @@
+*{
+  background-color:grey
+}
+
+ @media screen and (max-height: 450px) {
+   # navbar  {padding-top: 15px;}
+   #navbar  a {font-size: 18px;}
+ }
+header{
+  position:fixed;
+}
+ #contact-block{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+h1{
+  font-size: 75%
+}
